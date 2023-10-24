@@ -10,7 +10,8 @@
 - :link: [![Git Bage](https://img.shields.io/badge/-MemeSliderOnlyCSS-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/MemeSlider-onlyCSS/)
 
 ---
-![Uploading Screenshot 2023-10-24 at 14.40.52.png…]()
+<img width="764" alt="Screenshot 2023-10-24 at 14 40 52" src="https://github.com/UAHIG/MemeSlider-onlyCSS/assets/122532676/163e271c-b5a3-430f-84d4-cf62d479f2d1">
+
 
 <!-- <p align="center">
       <img src="Project Logo Url" width="726">
